@@ -1,0 +1,7 @@
+Order ID: ORD-20260108
+Date: 08-01-2026
+Customer: Marcus Thompson
+Product: England 2026 World Cup Tee (White)
+Qty: 2
+Price: £24.99 each
+Status: Completed

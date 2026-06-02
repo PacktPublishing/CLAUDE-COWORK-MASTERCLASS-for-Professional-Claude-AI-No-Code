@@ -1,0 +1,11 @@
+INVOICE
+Supplier:     KitPro Ltd
+Invoice No:   KP-2026-0211
+Date:         2 April 2026
+Due:          2 May 2026 (Net 30)
+Items:
+  Brazil Training Tee x350 @ £8.50    = £2,975.00
+  Fulfilment setup - World Cup range   =   £120.00
+Subtotal: £3,095.00  VAT (20%): £619.00  TOTAL DUE: £3,714.00
+Status: UNPAID
+Bank: Barclays Business | Sort: 20-44-51 | Acc: 83921744

@@ -1,0 +1,7 @@
+Order ID: ORD-20260404
+Date: 2026-04-04
+Customer: Jin-Su Kim
+Product: South Korea Fan Tee (Red)
+Qty: 3
+Price: £22.99 each
+Status: Completed

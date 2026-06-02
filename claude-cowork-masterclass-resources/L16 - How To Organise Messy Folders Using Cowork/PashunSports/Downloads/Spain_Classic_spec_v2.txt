@@ -1,0 +1,10 @@
+Product: Spain Classic Tee
+SKU: PST-ESP-CLS26-RED
+Colour: Deep red with yellow trim
+Sizes: XS S M L XL XXL
+Material: 100% organic cotton 180gsm
+Print: Screen print 3 colour
+RRP: £24.99
+Units: 250
+Territory: Spain
+Status: Approved

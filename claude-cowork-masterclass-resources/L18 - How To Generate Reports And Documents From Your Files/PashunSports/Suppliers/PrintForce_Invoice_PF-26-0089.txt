@@ -1,0 +1,9 @@
+INVOICE
+Supplier:     PrintForce UK
+Invoice No:   PF-26-0089
+Date:         5 March 2026
+Due:          19 March 2026 (Net 14)
+Items:
+  Screen print - Argentina Tees (2 colour) x300 @ £1.60 = £480.00
+Subtotal: £480.00  VAT (20%): £96.00  TOTAL DUE: £576.00
+Status: PAID - 18 March 2026

@@ -1,0 +1,7 @@
+Order ID: ORD-20260411
+Date: April 11 2026
+Customer: Daniela Rossi
+Product: Italy Classic Tee (Blue)
+Qty: 2
+Price: £24.99 each
+Status: Completed

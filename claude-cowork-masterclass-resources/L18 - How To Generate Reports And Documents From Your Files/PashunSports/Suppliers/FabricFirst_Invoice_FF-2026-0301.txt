@@ -1,0 +1,12 @@
+INVOICE
+Supplier:     FabricFirst Wholesale
+Invoice No:   FF-2026-0301
+Date:         2 April 2026
+Due:          2 May 2026 (Net 30)
+Items:
+  Organic cotton blank (white)  x600 @ £3.20 = £1,920.00
+  Organic cotton blank (yellow) x400 @ £3.20 = £1,280.00
+  Organic cotton blank (blue)   x350 @ £3.20 = £1,120.00
+Subtotal: £4,320.00  VAT (20%): £864.00  TOTAL DUE: £5,184.00
+Status: OVERDUE - was due 2 May 2026
+URGENT: Please settle immediately to avoid credit hold.

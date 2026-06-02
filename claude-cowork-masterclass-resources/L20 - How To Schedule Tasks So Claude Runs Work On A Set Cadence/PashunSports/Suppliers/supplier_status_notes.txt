@@ -1,0 +1,24 @@
+SUPPLIER STATUS NOTES — April 2026
+====================================
+Last updated: 22 April 2026
+
+KITPRO LTD
+  Status: Operational
+  Current units in production: 180 (England Tee x120, Spain Tee x60)
+  Units ready to ship: 95 (Argentina Fan Tee x60, Brazil Tee x35)
+  Issues: None flagged. Running on schedule.
+  Lead time today: 3 days
+
+PRINTFORCE UK
+  Status: Active — printing in progress
+  Current jobs: Brazil Tee (350 units) — estimated completion 25 Apr
+  Issues: None
+  Lead time today: 5 days
+
+FABRICFIRST WHOLESALE
+  Status: PAYMENT OVERDUE
+  Issue flagged: Invoice FF-2026-0301 (£5,184) overdue since 2 May.
+  Credit hold warning issued 19 April.
+  Impact: Morocco Away Tee order (200 units) at risk if not resolved.
+  Blank stock on hand: sufficient for current production run only.
+  Lead time today: 7 days — may extend if credit hold applied

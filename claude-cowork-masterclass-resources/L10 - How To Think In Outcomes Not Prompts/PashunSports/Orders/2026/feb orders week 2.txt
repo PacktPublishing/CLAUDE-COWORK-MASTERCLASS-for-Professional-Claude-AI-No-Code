@@ -1,0 +1,7 @@
+Order ID: ORD-20260210
+Date: 10th Feb 2026
+Customer: Ahmed Al-Rashid
+Product: Morocco Away Tee (Green)
+Qty: 1
+Price: £22.99
+Status: Completed

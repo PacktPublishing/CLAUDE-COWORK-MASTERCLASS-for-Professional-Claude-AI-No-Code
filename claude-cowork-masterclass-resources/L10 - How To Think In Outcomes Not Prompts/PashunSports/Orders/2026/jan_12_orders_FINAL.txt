@@ -1,0 +1,7 @@
+Order ID: ORD-20260112
+Date: 12/01/2026
+Customer: Sarah Okafor
+Product: Brazil Training Tee (Yellow)
+Qty: 1
+Price: £22.99
+Status: Completed

@@ -1,0 +1,7 @@
+order_id,date,product_name,sku,qty,unit_price,total,status,customer_email
+ORD-20260611-001,2026-06-11,England 2026 World Cup Tee (White),PST-ENG-WC26-WHT,3,24.99,74.97,Awaiting Production,marcus.t@email.co.uk
+ORD-20260611-002,2026-06-11,Brazil Training Tee (Yellow),PST-BRA-TRN26-YLW,2,22.99,45.98,In Production,sarah.ok@gmail.com
+ORD-20260611-003,2026-06-11,England 2026 World Cup Tee (White),PST-ENG-WC26-WHT,1,24.99,24.99,Ready to Ship,james.w@hotmail.com
+ORD-20260611-004,2026-06-11,Argentina Fan Tee (Blue),PST-ARG-FAN26-BLU,2,22.99,45.98,Awaiting Production,priya.n@work.com
+ORD-20260611-005,2026-06-11,England 2026 World Cup Tee (White),PST-ENG-WC26-WHT,4,24.99,99.96,At Risk — supplier delay,lucia.d@email.es
+ORD-20260611-006,2026-06-11,Morocco Away Tee (Green),PST-MAR-AWY26-GRN,1,22.99,22.99,In Production,ahmed.ar@gmail.com

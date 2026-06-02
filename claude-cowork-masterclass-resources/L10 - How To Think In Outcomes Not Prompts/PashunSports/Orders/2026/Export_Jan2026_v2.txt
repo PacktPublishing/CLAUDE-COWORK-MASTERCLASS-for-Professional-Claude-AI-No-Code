@@ -1,0 +1,7 @@
+Order ID: ORD-20260119
+Date: 19.01.2026
+Customer: James Whitfield
+Product: Argentina Fan Tee (Blue)
+Qty: 3
+Price: £22.99 each
+Status: Completed

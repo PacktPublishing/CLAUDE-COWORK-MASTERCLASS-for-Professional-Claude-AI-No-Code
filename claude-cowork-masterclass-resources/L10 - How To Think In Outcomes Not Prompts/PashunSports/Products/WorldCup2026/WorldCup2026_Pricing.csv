@@ -1,0 +1,9 @@
+SKU,Product Name,RRP (£),Cost (£),Margin (%),Territory,Units,Status
+PST-ENG-WC26-WHT,England 2026 World Cup Tee,24.99,8.50,66,UK,500,Approved
+PST-BRA-TRN26-YLW,Brazil Training Tee,22.99,7.80,66,Brazil,350,Approved
+PST-ARG-FAN26-BLU,Argentina Fan Tee,22.99,7.80,66,Argentina,300,Approved
+PST-ESP-CLS26-RED,Spain Classic Tee,24.99,8.50,66,Spain,250,Approved
+PST-MAR-AWY26-GRN,Morocco Away Tee,22.99,7.80,66,France,200,Approved
+PST-GER-TRN26-BLK,Germany Training Tee,22.99,7.80,66,Germany,150,In Review
+PST-KOR-FAN26-RED,South Korea Fan Tee,22.99,7.80,66,South Korea,100,In Review
+PST-ITA-CLS26-BLU,Italy Classic Tee,24.99,8.50,66,Italy,150,In Review

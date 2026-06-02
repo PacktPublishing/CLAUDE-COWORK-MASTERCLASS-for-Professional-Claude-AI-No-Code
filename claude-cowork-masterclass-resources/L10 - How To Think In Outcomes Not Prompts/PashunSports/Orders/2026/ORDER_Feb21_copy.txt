@@ -1,0 +1,7 @@
+Order ID: ORD-20260221
+Date: 21-02-26
+Customer: Priya Nair
+Product: England 2026 World Cup Tee (White)
+Qty: 4
+Price: £24.99 each
+Status: Completed

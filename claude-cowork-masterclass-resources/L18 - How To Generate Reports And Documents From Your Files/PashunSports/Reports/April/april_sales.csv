@@ -1,0 +1,21 @@
+date,order_id,product_name,sku,qty,unit_price,total,status
+2026-04-01,ORD-20260401,England 2026 World Cup Tee (White),PST-ENG-WC26-WHT,3,24.99,74.97,Completed
+2026-04-02,ORD-20260402,Brazil Training Tee (Yellow),PST-BRA-TRN26-YLW,1,22.99,22.99,Completed
+2026-04-03,ORD-20260403,Argentina Fan Tee (Blue),PST-ARG-FAN26-BLU,2,22.99,45.98,Completed
+2026-04-04,ORD-20260404,England 2026 World Cup Tee (White),PST-ENG-WC26-WHT,1,24.99,24.99,Cancelled
+2026-04-05,ORD-20260405,Spain Classic Tee (Red),PST-ESP-CLS26-RED,2,24.99,49.98,Completed
+2026-04-07,ORD-20260407,England 2026 World Cup Tee (White),PST-ENG-WC26-WHT,2,24.99,49.98,Completed
+2026-04-08,ORD-20260408,Brazil Training Tee (Yellow),PST-BRA-TRN26-YLW,3,22.99,68.97,Completed
+2026-04-09,ORD-20260409,Argentina Fan Tee (Blue),PST-ARG-FAN26-BLU,1,22.99,22.99,Returned
+2026-04-10,ORD-20260410,Morocco Away Tee (Green),PST-MAR-AWY26-GRN,2,22.99,45.98,Completed
+2026-04-11,ORD-20260411,England 2026 World Cup Tee (White),PST-ENG-WC26-WHT,4,24.99,99.96,Completed
+2026-04-12,ORD-20260412,South Korea Fan Tee (Red),PST-KOR-FAN26-RED,1,22.99,22.99,Completed
+2026-04-13,ORD-20260413,England 2026 World Cup Tee (White),PST-ENG-WC26-WHT,2,24.99,49.98,Completed
+2026-04-14,ORD-20260414,Brazil Training Tee (Yellow),PST-BRA-TRN26-YLW,5,22.99,114.95,Completed
+2026-04-15,ORD-20260415,Spain Classic Tee (Red),PST-ESP-CLS26-RED,1,24.99,24.99,Completed
+2026-04-16,ORD-20260416,England 2026 World Cup Tee (White),PST-ENG-WC26-WHT,3,24.99,74.97,Completed
+2026-04-18,ORD-20260418,Argentina Fan Tee (Blue),PST-ARG-FAN26-BLU,2,22.99,45.98,Completed
+2026-04-19,ORD-20260419,Italy Classic Tee (Blue),PST-ITA-CLS26-BLU,2,24.99,49.98,Completed
+2026-04-20,ORD-20260420,Brazil Training Tee (Yellow),PST-BRA-TRN26-YLW,1,22.99,22.99,Cancelled
+2026-04-21,ORD-20260421,England 2026 World Cup Tee (White),PST-ENG-WC26-WHT,6,24.99,149.94,Completed
+2026-04-22,ORD-20260422,Morocco Away Tee (Green),PST-MAR-AWY26-GRN,3,22.99,68.97,Completed

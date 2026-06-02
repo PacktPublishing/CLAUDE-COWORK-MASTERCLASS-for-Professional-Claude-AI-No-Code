@@ -1,0 +1,9 @@
+INVOICE
+Supplier:     KitPro Ltd
+Invoice No:   KP-2026-0178
+Date:         5 March 2026
+Due:          4 April 2026 (Net 30)
+Items:
+  Argentina Fan Tee x300 @ £8.50 = £2,550.00
+Subtotal: £2,550.00  VAT (20%): £510.00  TOTAL DUE: £3,060.00
+Status: PAID - 2 April 2026

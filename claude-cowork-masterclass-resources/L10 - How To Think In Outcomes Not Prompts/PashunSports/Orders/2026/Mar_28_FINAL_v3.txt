@@ -1,0 +1,7 @@
+Order ID: ORD-20260328
+Date: 28.03.2026
+Customer: Fatima Hassan
+Product: England 2026 World Cup Tee (White)
+Qty: 1
+Price: £24.99
+Status: Returned

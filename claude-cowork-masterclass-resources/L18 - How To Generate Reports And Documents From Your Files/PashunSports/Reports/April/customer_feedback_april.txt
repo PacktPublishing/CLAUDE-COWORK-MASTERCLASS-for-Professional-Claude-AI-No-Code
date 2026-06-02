@@ -1,0 +1,47 @@
+CUSTOMER FEEDBACK - APRIL 2026
+================================
+Collected from: email replies, Trustpilot, Instagram DMs
+
+POSITIVE FEEDBACK
+-----------------
+"The England tee is exactly what I was looking for - not the official kit,
+something more like fan gear. Really good quality cotton." - Marcus T.
+
+"Ordered for my whole group for the World Cup. Fast delivery, everyone loves
+them. The Brazil tee colours are spot on." - Sarah O.
+
+"Love the Argentina design - the stripes are perfect. Will definitely order
+again before the tournament." - Lucia D.
+
+"The England tee fits better than the actual Adidas kit ha. Quality is
+brilliant." - Tom H.
+
+COMPLAINTS AND ISSUES
+---------------------
+"My order was cancelled without warning. I had ordered 4 England tees and
+found out only by checking the website. No email notification at all.
+Really disappointing." - Priya N.
+[NOTE: payment issue - fix cancelled order email trigger]
+
+"The Argentina tee I received looked more pale blue than sky blue in the
+product photo. Can I exchange?" - Fatima H.
+[NOTE: colour accuracy in product photography - flag to designer]
+
+"Returned my order because the sizing runs small. I normally take a Large
+but it was tight. Please update the size guide." - Ryan O.
+[NOTE: size guide needs updating - 3 similar complaints this month]
+
+SIZING COMPLAINTS (recurring theme this month)
+-----------------------------------------------
+3 separate customers mentioned sizing runs small.
+Size guide update is overdue. Action required for May.
+
+SHIPPING QUERIES
+-----------------
+2 customers asked about international shipping to Australia and Germany.
+No international shipping currently - add to FAQ.
+
+NET PROMOTER SCORE
+-------------------
+12 customers replied to feedback request this month.
+Would recommend: 10  |  Would not: 1  |  Neutral: 1

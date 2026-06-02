@@ -1,0 +1,72 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Pashun Sports//World Cup 2026 Fixtures//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:World Cup 2026 — Pashun Sports Fixtures
+X-WR-CALDESC:England, Brazil and Argentina World Cup 2026 fixtures
+
+BEGIN:VEVENT
+DTSTART:20260615T140000Z
+DTEND:20260615T160000Z
+SUMMARY:England vs Group B Opponent — World Cup 2026 Group Stage
+DESCRIPTION:England's first group stage match. Pashun tee to feature: England 2026 World Cup Tee (White). Post 2 hours before kick-off.
+LOCATION:SoFi Stadium, Los Angeles, USA
+CATEGORIES:World Cup,England,Match Day
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260619T190000Z
+DTEND:20260619T210000Z
+SUMMARY:England vs Group B Opponent 2 — World Cup 2026 Group Stage
+DESCRIPTION:England's second group stage match. Pashun tee to feature: England 2026 World Cup Tee (White). Post 2 hours before kick-off.
+LOCATION:AT&T Stadium, Dallas, USA
+CATEGORIES:World Cup,England,Match Day
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260624T010000Z
+DTEND:20260624T030000Z
+SUMMARY:England vs Group B Opponent 3 — World Cup 2026 Group Stage
+DESCRIPTION:England's third group stage match. Final group game. Pashun tee to feature: England 2026 World Cup Tee (White).
+LOCATION:Estadio Azteca, Mexico City
+CATEGORIES:World Cup,England,Match Day
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260618T200000Z
+DTEND:20260618T220000Z
+SUMMARY:Brazil vs Group F Opponent — World Cup 2026 Group Stage
+DESCRIPTION:Brazil's first group stage match. Pashun tee to feature: Brazil Training Tee (Yellow). Post 2 hours before kick-off.
+LOCATION:MetLife Stadium, New York, USA
+CATEGORIES:World Cup,Brazil,Match Day
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260622T230000Z
+DTEND:20260623T010000Z
+SUMMARY:Brazil vs Group F Opponent 2 — World Cup 2026 Group Stage
+DESCRIPTION:Brazil's second group stage match. Pashun tee to feature: Brazil Training Tee (Yellow).
+LOCATION:Levi's Stadium, San Francisco, USA
+CATEGORIES:World Cup,Brazil,Match Day
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260619T230000Z
+DTEND:20260620T010000Z
+SUMMARY:Argentina vs Group E Opponent — World Cup 2026 Group Stage
+DESCRIPTION:Argentina's first group stage match. Pashun tee to feature: Argentina Fan Tee (Sky Blue/White Stripe). Post 2 hours before kick-off.
+LOCATION:Hard Rock Stadium, Miami, USA
+CATEGORIES:World Cup,Argentina,Match Day
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260625T010000Z
+DTEND:20260625T030000Z
+SUMMARY:Argentina vs Group E Opponent 2 — World Cup 2026 Group Stage
+DESCRIPTION:Argentina's second group stage match. Pashun tee to feature: Argentina Fan Tee (Sky Blue/White Stripe).
+LOCATION:Rose Bowl, Los Angeles, USA
+CATEGORIES:World Cup,Argentina,Match Day
+END:VEVENT
+
+END:VCALENDAR

@@ -1,0 +1,7 @@
+Order ID: ORD-20260203
+Date: 2026-02-03
+Customer: Lucia Diaz
+Product: Spain Classic Tee (Red)
+Qty: 2
+Price: £24.99 each
+Status: Completed

@@ -1,0 +1,36 @@
+PROJECT INSTRUCTIONS TEMPLATE — Pashun Sports World Cup 2026
+=============================================================
+Copy the text below into the Instructions field when creating your Cowork project.
+Edit it to match your own business if you are not using the Pashun Sports scenario.
+
+--- COPY FROM HERE ---
+
+We are Pashun Sports, a fan-first organic cotton T-shirt brand.
+We are launching into the World Cup 2026 market across three territories:
+UK, Brazil, and Argentina.
+
+ALWAYS follow these rules on every task in this project:
+- Tone: direct, confident, business-ready. Not corporate. Fan-first.
+- Output files should be saved to the relevant subfolder in /PashunSports/
+- Germany and Spain are out of scope — do not include them in any output
+- Argentina tee colourway is sky blue and white STRIPES — not plain blue
+- The three hero products are:
+    England 2026 World Cup Tee (White/Navy/Red)
+    Brazil Training Tee (Yellow/Green)
+    Argentina Fan Tee (Sky Blue/White Stripe)
+- World Cup 2026 kicks off 11 June 2026. Tournament ends 13 July 2026.
+- Always show me your plan before making changes to files.
+
+--- END COPY ---
+
+TIPS FOR WRITING YOUR OWN INSTRUCTIONS
+---------------------------------------
+Keep it to 5-10 lines. Include:
+  - Who you are and what your business does (1-2 sentences)
+  - Any hard rules Claude must follow every time
+  - Output path preferences
+  - Anything Claude should never include or assume
+  - Key dates or context that's always relevant
+
+You can edit the instructions at any time by clicking the pencil icon
+next to the instructions block inside your project view.

@@ -1,0 +1,15 @@
+Order ID: ORD-20260307
+Date: 07/03/2026
+Customer: Tom Hargreaves
+Product: Brazil Training Tee (Yellow)
+Qty: 2
+Price: £22.99 each
+Status: Completed
+
+Order ID: ORD-20260307b
+Date: 07/03/2026
+Customer: Chloe Bentley
+Product: Argentina Fan Tee (Blue)
+Qty: 1
+Price: £22.99
+Status: Cancelled

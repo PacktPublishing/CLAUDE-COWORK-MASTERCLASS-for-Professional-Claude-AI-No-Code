@@ -1,0 +1,10 @@
+INVOICE
+Supplier:     PrintForce UK
+Invoice No:   PF-26-0112
+Date:         8 April 2026
+Due:          22 April 2026 (Net 14)
+Items:
+  Screen print - Brazil Tee (3 colour) x350 @ £1.85 = £647.50
+  Setup fee - new screen                             =  £45.00
+Subtotal: £692.50  VAT (20%): £138.50  TOTAL DUE: £831.00
+Status: UNPAID
